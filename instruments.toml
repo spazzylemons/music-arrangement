@@ -1,0 +1,43 @@
+# Instrument specification
+
+[flute]
+name = "Flute"
+minimum = "C4"
+maximum = "A6"
+key = "C"
+
+[clarinet]
+name = "Clarinet"
+minimum = "D3"
+maximum = "F6"
+key = "Bb"
+
+[soprano-sax]
+name = "SopranoSaxophone"
+minimum = "Ab3"
+maximum = "F6"
+key = "Bb"
+
+[alto-sax]
+name = "AltoSaxophone"
+minimum = "Db3"
+maximum = "Bb5"
+key = "Eb"
+
+[tenor-sax]
+name = "TenorSaxophone"
+minimum = "Ab2"
+maximum = "F5"
+key = "Bb"
+
+[bari-sax]
+name = "BaritoneSaxophone"
+minimum = "Db2"
+maximum = "Bb4"
+key = "Eb"
+
+[cello]
+name = "Violoncello"
+minimum = "C2"
+maximum = "G4"
+key = "C"
